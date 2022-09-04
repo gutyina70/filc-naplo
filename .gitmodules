@@ -1,6 +1,6 @@
 [submodule "Mobile UI"]
 	path = filcnaplo_mobile_ui
-	url = https://github.com/filc/mobile
+	url = https://github.com/gutyina70/filc-mobile
 
 [submodule "Desktop UI"]
 	path = filcnaplo_desktop_ui
